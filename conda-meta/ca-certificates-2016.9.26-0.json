@@ -1,0 +1,36 @@
+{
+  "arch": "x86_64", 
+  "binstar": {
+    "channel": "main", 
+    "owner_id": "5528f42ce1dad12974506e8d", 
+    "package_id": "572d1d8708df866c4ff247e8"
+  }, 
+  "build": "0", 
+  "build_number": 0, 
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64", 
+  "depends": [], 
+  "files": [
+    "ssl/cacert.pem", 
+    "ssl/cert.pem"
+  ], 
+  "fn": "ca-certificates-2016.9.26-0.tar.bz2", 
+  "has_prefix": false, 
+  "license": "ISC", 
+  "link": {
+    "source": "/Users/govi/miniconda2/pkgs/ca-certificates-2016.9.26-0", 
+    "type": "hard-link"
+  }, 
+  "machine": "x86_64", 
+  "md5": "3d5b7a7a5a90d10b68b1e6df9b2dbc89", 
+  "name": "ca-certificates", 
+  "operatingsystem": "darwin", 
+  "platform": "osx", 
+  "priority": 0, 
+  "requires": [], 
+  "schannel": "conda-forge", 
+  "size": 165797, 
+  "subdir": "osx-64", 
+  "target-triplet": "x86_64-any-darwin", 
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2016.9.26-0.tar.bz2", 
+  "version": "2016.9.26"
+}
